@@ -1,0 +1,454 @@
+oferta,recamaras,bathrooms,mts,lat,lon,fecha_consulta,fuente,precio,precio_m2,cvegeo,cve_ent,cve_mun,nom_mun,tipo
+casa en renta en sabalo cerritos,3.0,2.0,1.0,23.2973214,-106.4777561,2024-09-04 11:28:07.772966,lamudi,25000.0,25000.0,25012,25,012,Mazatlán,renta
+departamento en renta en centro,2.0,1.0,1.0,23.2051184,-106.4199755,2024-09-04 11:28:07.772966,lamudi,13500.0,13500.0,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,4.0,3.0,,23.3056571,-106.4744846,2024-09-04 11:28:07.772966,lamudi,35000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real del valle,2.0,1.0,,23.2830326,-106.43058151,2024-09-04 11:28:07.772966,lamudi,10000.0,,25012,25,012,Mazatlán,renta
+casa en renta en hacienda los mangos,3.0,2.0,1.0,23.2598254,-106.4259737,2024-09-04 11:28:07.772966,lamudi,14000.0,14000.0,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo cerritos,2.0,2.0,75.0,23.2991545,-106.4815048,2024-09-04 11:28:07.772966,lamudi,18000.0,240.0,25012,25,012,Mazatlán,renta
+departamento en renta en potrero de carrasco,2.0,1.0,,23.2666666,-106.3205555,2024-09-04 11:28:07.772966,lamudi,13000.0,,25012,25,012,Mazatlán,renta
+casa en renta en arboledas invies,3.0,1.0,,23.2634116,-106.3883651,2024-09-04 11:28:07.772966,lamudi,12500.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo country club,2.0,2.0,85.0,23.26085,-106.46085,2024-09-04 11:28:07.772966,lamudi,11000.0,129.41176470588235,25012,25,012,Mazatlán,renta
+departamento en renta en telleria,2.0,2.0,96.0,23.2271,-106.42478,2024-09-04 11:28:07.772966,lamudi,30000.0,312.5,25012,25,012,Mazatlán,renta
+casa en fraccionamiento en renta en playas infonavit,5.0,3.0,320.0,23.2516192,-106.4228283,2024-09-04 11:28:07.772966,lamudi,80000.0,250.0,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo country club,2.0,2.0,70.0,23.26085,-106.46085,2024-09-04 11:28:07.772966,lamudi,25000.0,357.1428571428572,25012,25,012,Mazatlán,renta
+departamento en renta en rincon de las plazas,2.0,2.0,105.0,23.203,-106.4122,2024-09-04 11:28:07.772966,lamudi,35000.0,333.3333333333333,25012,25,012,Mazatlán,renta
+casa en fraccionamiento en renta en real del valle,4.0,4.0,190.0,23.2879518,-106.4248962,2024-09-04 11:28:07.772966,lamudi,23000.0,121.05263157894736,25012,25,012,Mazatlán,renta
+departamento en renta en marina mazatlan,3.0,3.0,140.0,23.271233,-106.452509,2024-09-04 11:28:07.772966,lamudi,24000.0,171.42857142857142,25012,25,012,Mazatlán,renta
+departamento en renta en marina mazatlan,1.0,1.0,75.0,23.272606,-106.446753,2024-09-04 11:28:07.772966,lamudi,13500.0,180.0,25012,25,012,Mazatlán,renta
+departamento en renta en las gaviotas,2.0,2.0,75.0,23.248207,-106.453555,2024-09-04 11:28:07.772966,lamudi,15000.0,200.0,25012,25,012,Mazatlán,renta
+departamento en renta en cerritos resort,2.0,2.0,90.0,23.276905,-106.4674987,2024-09-04 11:28:07.772966,lamudi,40000.0,444.44444444444446,25012,25,012,Mazatlán,renta
+casa en condominio en renta en marina mazatlan,,,,23.26967,-106.45232,2024-09-04 11:28:07.772966,lamudi,22000.0,,25012,25,012,Mazatlán,renta
+loft en renta en las gaviotas,1.0,1.0,68.0,23.247252,-106.45163,2024-09-04 11:28:07.772966,lamudi,17000.0,250.0,25012,25,012,Mazatlán,renta
+casa en renta en real del valle,3.0,2.0,,23.2877702,-106.4297301,2024-09-04 11:28:07.772966,lamudi,17000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en ferrocarrilera,3.0,3.0,240.0,23.2200624,-106.4207834,2024-09-04 11:28:07.772966,lamudi,29000.0,120.83333333333331,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,2.0,,23.287472,-106.468857,2024-09-04 11:28:07.772966,lamudi,22000.0,,25012,25,012,Mazatlán,renta
+casa en fraccionamiento en renta en puerta del sol,3.0,2.0,85.0,23.27462838,-106.39683542,2024-09-04 11:28:07.772966,lamudi,9500.0,111.76470588235294,25012,25,012,Mazatlán,renta
+departamento en renta en villas de rueda,2.0,2.0,,23.2859232,-106.4723657,2024-09-04 11:28:07.772966,lamudi,49000.0,,25012,25,012,Mazatlán,renta
+condominio horizontal en renta en zona dorada,2.0,2.0,,23.2454638,-106.4543865,2024-09-04 11:28:07.772966,lamudi,45000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,3.0,,23.287671,-106.467829,2024-09-04 11:28:07.772966,lamudi,25000.0,,25012,25,012,Mazatlán,renta
+casa en renta en el encanto,3.0,3.0,,23.258961,-106.457725,2024-09-04 11:28:07.772966,lamudi,25000.0,,25012,25,012,Mazatlán,renta
+casa en renta en marina garden,3.0,2.0,,23.281447,-106.468258,2024-09-04 11:28:07.772966,lamudi,23000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en flamingos,2.0,1.0,,23.236145,-106.437274,2024-09-04 11:28:07.772966,lamudi,16000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en ciudad de mazatlan,2.0,2.0,,23.255015,-106.457761,2024-09-04 11:28:07.772966,lamudi,50000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo country club,2.0,2.0,,23.262684,-106.462673,2024-09-04 11:28:07.772966,lamudi,16000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en alameda,2.0,3.0,,23.241446,-106.438379,2024-09-04 11:28:07.772966,lamudi,18000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en real del valle,2.0,2.0,,23.275636,-106.436809,2024-09-04 11:28:07.772966,lamudi,20000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real del valle,3.0,3.0,260.0,23.2863833,-106.4302811,2024-09-04 11:28:07.772966,lamudi,18000.0,69.23076923076923,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,3.0,,23.303516,-106.478561,2024-09-04 11:28:07.772966,lamudi,23000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,3.0,,23.303516,-106.478561,2024-09-04 11:28:07.772966,lamudi,35000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,3.0,,23.287671,-106.467829,2024-09-04 11:28:07.772966,lamudi,22000.0,,25012,25,012,Mazatlán,renta
+casa en renta en cerritos resort,3.0,3.0,,23.307572,-106.477456,2024-09-04 11:28:07.772966,lamudi,22000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en villas de rueda,1.0,1.0,,23.287421,-106.473854,2024-09-04 11:28:07.772966,lamudi,16000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en marina mazatlan,2.0,2.0,154.0,23.270913,-106.456722,2024-09-04 11:28:07.772966,lamudi,26000.0,168.83116883116884,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo cerritos,3.0,2.0,,23.295924,-106.467888,2024-09-04 11:28:07.772966,lamudi,27000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,3.0,,23.287671,-106.467829,2024-09-04 11:28:07.772966,lamudi,30000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo country club,2.0,2.0,,23.265414,-106.463563,2024-09-04 11:28:07.772966,lamudi,17500.0,,25012,25,012,Mazatlán,renta
+casa en renta en el encanto,3.0,2.0,,23.258956,-106.457704,2024-09-04 11:28:07.772966,lamudi,25000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo cerritos,2.0,1.0,65.0,23.303516,-106.47856,2024-09-04 11:28:07.772966,lamudi,18000.0,276.9230769230769,25012,25,012,Mazatlán,renta
+departamento en renta en marina mazatlan,3.0,3.0,,23.270913,-106.456722,2024-09-04 11:28:07.772966,lamudi,32000.0,,25012,25,012,Mazatlán,renta
+casa en renta en el cid,3.0,3.0,,23.252899,-106.456136,2024-09-04 11:28:07.772966,lamudi,50000.0,,25012,25,012,Mazatlán,renta
+casa en renta en el cid,4.0,4.0,,23.255278,-106.450894,2024-09-04 11:28:07.772966,lamudi,42000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo country club,3.0,3.0,,23.262684,-106.462673,2024-09-04 11:28:07.772966,lamudi,23000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo cerritos,2.0,2.0,,23.291145,-106.470008,2024-09-04 11:28:07.772966,lamudi,15000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en ferrocarrilera,2.0,2.0,101.0,23.2170844,-106.4198522,2024-09-04 11:28:07.772966,lamudi,20000.0,198.01980198019805,25012,25,012,Mazatlán,renta
+departamento en renta en telleria,2.0,2.0,,23.2356921,-106.4395948,2024-09-04 11:28:07.772966,lamudi,4800.0,,25012,25,012,Mazatlán,renta
+casa en renta en mazatlan,3.0,4.0,,23.30515406,-106.49024831,2024-09-04 11:28:07.772966,lamudi,50000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en villas de rueda,2.0,2.0,,23.2859232,-106.4723657,2024-09-04 11:28:07.772966,lamudi,45000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real del valle,3.0,3.0,,23.2863833,-106.4302811,2024-09-04 11:28:07.772966,lamudi,20000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en cerritos resort,2.0,2.0,,23.276905,-106.4674987,2024-09-04 11:28:07.772966,lamudi,6000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en royal country,2.0,2.0,,23.2915963,-106.4726129,2024-09-04 11:28:07.772966,lamudi,13000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en zona dorada,2.0,2.0,,23.2454638,-106.4543865,2024-09-04 11:28:07.772966,lamudi,45000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en telleria,2.0,2.0,108.0,23.2331775,-106.4359209,2024-09-04 11:28:07.772966,lamudi,28000.0,259.25925925925924,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo cerritos,3.0,3.0,,23.29915437,-106.48150485,2024-09-04 11:28:07.772966,lamudi,50000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en zona dorada,3.0,3.0,,23.2429238,-106.4533857,2024-09-04 11:28:07.772966,lamudi,55000.0,,25012,25,012,Mazatlán,renta
+casa en renta en club real,3.0,3.0,,23.2693983,-106.4472128,2024-09-04 11:28:07.772966,lamudi,35000.0,,25012,25,012,Mazatlán,renta
+loft en renta en playa sur,1.0,1.0,40.0,23.1919551,-106.4214477,2024-09-04 11:28:07.772966,lamudi,8000.0,200.0,25012,25,012,Mazatlán,renta
+departamento en renta en marina mazatlan,3.0,2.0,,23.2743651,-106.462157,2024-09-04 11:28:07.772966,lamudi,35000.0,,25012,25,012,Mazatlán,renta
+casa en renta en el cid,4.0,4.0,,23.2552777,-106.4508938,2024-09-04 11:28:07.772966,lamudi,45000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo country club,2.0,2.0,,23.2644253,-106.4641046,2024-09-04 11:28:07.772966,lamudi,20000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo country club,2.0,2.0,,23.2626843,-106.4626734,2024-09-04 11:28:07.772966,lamudi,14000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en ciudad de mazatlan,2.0,2.0,,23.2604548,-106.4651278,2024-09-04 11:28:07.772966,lamudi,28000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en el dorado,2.0,2.0,,23.2514289,-106.4531024,2024-09-04 11:28:07.772966,lamudi,19000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en centro,2.0,2.0,,23.1962253,-106.4225304,2024-09-04 11:28:07.772966,lamudi,14000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo cerritos,2.0,2.0,,23.2884934,-106.46703,2024-09-04 11:28:07.772966,lamudi,16000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en ferrocarrilera,2.0,2.0,,23.218139,-106.4187348,2024-09-04 11:28:07.772966,lamudi,12000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en marina mazatlan,2.0,2.0,,23.271669,-106.459728,2024-09-04 11:28:07.772966,lamudi,22000.0,,25012,25,012,Mazatlán,renta
+casa en renta en el cid,4.0,4.0,,23.252899,-106.456136,2024-09-04 11:28:07.772966,lamudi,65000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,2.0,,23.305479,-106.478069,2024-09-04 11:28:07.772966,lamudi,35000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en ciudad de mazatlan,3.0,3.0,,23.286446,-106.454914,2024-09-04 11:28:07.772966,lamudi,45000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo country club,1.0,1.0,,23.264531,-106.459783,2024-09-04 11:28:07.772966,lamudi,15000.0,,25012,25,012,Mazatlán,renta
+casa en renta en cerritos resort,3.0,2.0,,23.308383,-106.476481,2024-09-04 11:28:07.772966,lamudi,30000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en marina mazatlan,3.0,3.0,,23.271669,-106.459728,2024-09-04 11:28:07.772966,lamudi,35000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,1.0,,23.282481,-106.468356,2024-09-04 11:28:07.772966,lamudi,23000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en las gaviotas,2.0,2.0,,23.248586,-106.452425,2024-09-04 11:28:07.772966,lamudi,22000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,4.0,3.0,,23.305479,-106.478069,2024-09-04 11:28:07.772966,lamudi,30000.0,,25012,25,012,Mazatlán,renta
+casa en renta en cerritos resort,3.0,3.0,,23.306418,-106.477959,2024-09-04 11:28:07.772966,lamudi,25000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real del valle,2.0,2.0,,23.2863833,-106.4302811,2024-09-04 11:28:07.772966,lamudi,11500.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,2.0,,23.305479,-106.478069,2024-09-04 11:28:07.772966,lamudi,23000.0,,25012,25,012,Mazatlán,renta
+casa en renta en club real,4.0,4.0,,23.269398,-106.447213,2024-09-04 11:28:07.772966,lamudi,45000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo country club,2.0,2.0,,23.265414,-106.463563,2024-09-04 11:28:07.772966,lamudi,15000.0,,25012,25,012,Mazatlán,renta
+casa en renta en cerritos resort,2.0,2.0,,23.299078,-106.483657,2024-09-04 11:28:07.772966,lamudi,27000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en el dorado,1.0,1.0,,23.251394,-106.455192,2024-09-04 11:28:07.772966,lamudi,15000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en marina mazatlan,3.0,3.0,,23.270913,-106.456722,2024-09-04 11:28:07.772966,lamudi,29000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo country club,2.0,2.0,,23.262684,-106.462673,2024-09-04 11:28:07.772966,lamudi,17000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo country club,2.0,2.0,,23.262684,-106.462673,2024-09-04 11:28:07.772966,lamudi,18000.0,,25012,25,012,Mazatlán,renta
+casa en renta en cerritos resort,3.0,3.0,,23.306418,-106.477959,2024-09-04 11:28:07.772966,lamudi,18000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en las gaviotas,2.0,2.0,,23.247252,-106.45163,2024-09-04 11:28:07.772966,lamudi,28500.0,,25012,25,012,Mazatlán,renta
+departamento en renta en lomas de mazatlan,2.0,2.0,,23.244349,-106.445004,2024-09-04 11:28:07.772966,lamudi,17500.0,,25012,25,012,Mazatlán,renta
+departamento en renta en marina mazatlan,2.0,2.0,,23.274163,-106.462123,2024-09-04 11:28:07.772966,lamudi,18000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en marina mazatlan,2.0,2.0,,23.26795,-106.452844,2024-09-04 11:28:07.772966,lamudi,25000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en el dorado,2.0,2.0,,23.251162,-106.453975,2024-09-04 11:28:07.772966,lamudi,20000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en ciudad de mazatlan,2.0,2.0,,23.275335,-106.457332,2024-09-04 11:28:07.772966,lamudi,25000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo cerritos,2.0,1.0,,23.297083,-106.476847,2024-09-04 11:28:07.772966,lamudi,14000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo cerritos,2.0,2.0,72.0,23.29104041,-106.46971037,2024-09-04 11:28:07.772966,lamudi,13800.0,191.66666666666663,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo cerritos,2.0,2.0,85.0,23.262551,-106.465377,2024-09-04 11:28:07.772966,lamudi,18500.0,217.64705882352945,25012,25,012,Mazatlán,renta
+departamento en renta en marina mazatlan,2.0,2.0,,23.274365,-106.462157,2024-09-04 11:28:07.772966,lamudi,28000.0,,25012,25,012,Mazatlán,renta
+casa en renta en marina mazatlan,4.0,4.0,,23.277441,-106.452278,2024-09-04 11:28:07.772966,lamudi,60000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,3.0,,23.287664,-106.467773,2024-09-04 11:28:07.772966,lamudi,24000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,4.0,,23.287664,-106.467773,2024-09-04 11:28:07.772966,lamudi,26000.0,,25012,25,012,Mazatlán,renta
+casa en renta en mediterraneo club residencial,3.0,2.0,,23.272374,-106.445751,2024-09-04 11:28:07.772966,lamudi,21000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,2.0,,23.287671,-106.467829,2024-09-04 11:28:07.772966,lamudi,26000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,3.0,,23.305479,-106.478069,2024-09-04 11:28:07.772966,lamudi,32000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,3.0,,23.287472,-106.468857,2024-09-04 11:28:07.772966,lamudi,26000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,4.0,4.0,,23.305479,-106.478069,2024-09-04 11:28:07.772966,lamudi,32000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en marina mazatlan,4.0,4.0,,23.289539,-106.45938,2024-09-04 11:28:07.772966,lamudi,30000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,2.0,,23.297083,-106.476847,2024-09-04 11:28:07.772966,lamudi,18000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en marina mazatlan,2.0,2.0,,23.269446,-106.452461,2024-09-04 11:28:07.772966,lamudi,16000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo country club,3.0,3.0,,23.266064,-106.462304,2024-09-04 11:28:07.772966,lamudi,35000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en ciudad de mazatlan,2.0,2.0,,23.22088,-106.404386,2024-09-04 11:28:07.772966,lamudi,20000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,4.0,,23.297321,-106.477756,2024-09-04 11:28:07.772966,lamudi,23000.0,,25012,25,012,Mazatlán,renta
+casa en renta en mediterraneo club residencial,3.0,2.0,,23.272374,-106.445751,2024-09-04 11:28:07.772966,lamudi,30000.0,,25012,25,012,Mazatlán,renta
+casa en renta en mazatlan,2.0,1.0,,23.296231,-106.434812,2024-09-04 11:28:07.772966,lamudi,20000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en lomas de mazatlan,2.0,2.0,,23.240609,-106.446282,2024-09-04 11:28:07.772966,lamudi,19000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo country club,4.0,3.0,,23.262684,-106.462673,2024-09-04 11:28:07.772966,lamudi,28000.0,,25012,25,012,Mazatlán,renta
+casa en renta en el cid,3.0,3.0,,23.252974,-106.45468,2024-09-04 11:28:07.772966,lamudi,43000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en marina mazatlan,3.0,2.0,,23.274163,-106.462123,2024-09-04 11:28:07.772966,lamudi,30000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en marina mazatlan,3.0,3.0,,23.270913,-106.456722,2024-09-04 11:28:07.772966,lamudi,26000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en las gaviotas,3.0,2.0,,23.246281,-106.451998,2024-09-04 11:28:07.772966,lamudi,20000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo country club,1.0,1.0,,23.262684,-106.462673,2024-09-04 11:28:07.772966,lamudi,16000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en marina mazatlan,3.0,3.0,,23.271305,-106.453069,2024-09-04 11:28:07.772966,lamudi,30000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en telleria,2.0,2.0,,23.231478,-106.433932,2024-09-04 11:28:07.772966,lamudi,35000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en cerritos resort,2.0,2.0,114.0,23.276032,-106.4663,2024-09-04 11:28:07.772966,lamudi,36000.0,315.7894736842105,25012,25,012,Mazatlán,renta
+departamento en renta en marina mazatlan,2.0,2.0,,23.274709,-106.46548,2024-09-04 11:28:07.772966,lamudi,20000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en cerritos resort,2.0,2.0,,23.27751,-106.46698,2024-09-04 11:28:07.772966,lamudi,45000.0,,25012,25,012,Mazatlán,renta
+casa en renta en el cid,4.0,4.0,450.0,23.257136,-106.450612,2024-09-04 11:28:07.772966,lamudi,55000.0,122.22222222222224,25012,25,012,Mazatlán,renta
+casa en renta en el cid,3.0,3.0,300.0,23.255278,-106.450894,2024-09-04 11:28:07.772966,lamudi,45000.0,150.0,25012,25,012,Mazatlán,renta
+casa en renta en sabalo country club,3.0,2.0,190.0,23.262684,-106.462673,2024-09-04 11:28:07.772966,lamudi,18000.0,94.73684210526316,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,4.0,4.0,232.0,23.298981,-106.478335,2024-09-04 11:28:07.772966,lamudi,40000.0,172.41379310344828,25012,25,012,Mazatlán,renta
+casa en renta en real del valle,3.0,2.0,190.0,23.285468,-106.432864,2024-09-04 11:28:07.772966,lamudi,20000.0,105.26315789473684,25012,25,012,Mazatlán,renta
+casa en renta en marina mazatlan,3.0,3.0,,23.296697,-106.434527,2024-09-04 11:28:07.772966,lamudi,27000.0,,25012,25,012,Mazatlán,renta
+casa en renta en marina mazatlan,3.0,4.0,,23.296697,-106.434527,2024-09-04 11:28:07.772966,lamudi,27000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,3.0,,23.287671,-106.467829,2024-09-04 11:28:07.772966,lamudi,20000.0,,25012,25,012,Mazatlán,renta
+casa en renta en el cid,4.0,3.0,,23.255278,-106.450894,2024-09-04 11:28:07.772966,lamudi,45000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,3.0,,23.287671,-106.467829,2024-09-04 11:28:07.772966,lamudi,21500.0,,25012,25,012,Mazatlán,renta
+casa en renta en el cid,4.0,2.0,,23.255278,-106.450894,2024-09-04 11:28:07.772966,lamudi,60000.0,,25012,25,012,Mazatlán,renta
+casa en renta en punta diamante,3.0,4.0,,23.275364,-106.453384,2024-09-04 11:28:07.772966,lamudi,55000.0,,25012,25,012,Mazatlán,renta
+casa en renta en mediterraneo club residencial,3.0,2.0,240.0,23.272374,-106.445751,2024-09-04 11:28:07.772966,lamudi,25000.0,104.16666666666669,25012,25,012,Mazatlán,renta
+departamento en renta en centro,2.0,2.0,,23.205346,-106.428325,2024-09-04 11:28:07.772966,lamudi,30000.0,,25012,25,012,Mazatlán,renta
+casa en renta en marina mazatlan,3.0,3.0,,23.277781,-106.452224,2024-09-04 11:28:07.772966,lamudi,55000.0,,25012,25,012,Mazatlán,renta
+casa en renta en el cid,3.0,3.0,,23.257136,-106.450612,2024-09-04 11:28:07.772966,lamudi,35000.0,,25012,25,012,Mazatlán,renta
+casa en renta en club real,4.0,3.0,,23.268198,-106.445579,2024-09-04 11:28:07.772966,lamudi,40000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real del valle,3.0,2.0,,23.286383,-106.430281,2024-09-04 11:28:07.772966,lamudi,21000.0,,25012,25,012,Mazatlán,renta
+casa en renta en mazatlan,3.0,3.0,,23.296231,-106.434812,2024-09-04 11:28:07.772966,lamudi,30000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en marina mazatlan,3.0,3.0,,23.274365,-106.462157,2024-09-04 11:28:07.772966,lamudi,60000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo cerritos,3.0,3.0,,23.305479,-106.478069,2024-09-04 11:28:07.772966,lamudi,22000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en zona dorada,1.0,1.0,55.0,23.245892,-106.454207,2024-09-04 11:28:07.772966,lamudi,25200.0,458.1818181818182,25012,25,012,Mazatlán,renta
+departamento en renta en lomas de mazatlan,2.0,2.0,,23.244349,-106.445004,2024-09-04 11:28:07.772966,lamudi,14000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real del valle,3.0,2.0,,23.285468,-106.432864,2024-09-04 11:28:07.772966,lamudi,22000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real del valle,4.0,3.0,,23.285468,-106.432864,2024-09-04 11:28:07.772966,lamudi,19000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real del valle,4.0,3.0,,23.286086,-106.424819,2024-09-04 11:28:07.772966,lamudi,25000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real del valle,3.0,2.0,,23.275569,-106.42785,2024-09-04 11:28:07.772966,lamudi,24000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real del valle,3.0,3.0,,23.286094,-106.425514,2024-09-04 11:28:07.772966,lamudi,22000.0,,25012,25,012,Mazatlán,renta
+casa en renta en mediterraneo club residencial,3.0,3.0,,23.273764,-106.44557,2024-09-04 11:28:07.772966,lamudi,20000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo country club,3.0,2.0,,23.265414,-106.463563,2024-09-04 11:28:07.772966,lamudi,20000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo country club,3.0,3.0,,23.259032,-106.462577,2024-09-04 11:28:07.772966,lamudi,20000.0,,25012,25,012,Mazatlán,renta
+casa en renta en club real,4.0,4.0,,23.269398,-106.447213,2024-09-04 11:28:07.772966,lamudi,27000.0,,25012,25,012,Mazatlán,renta
+casa en renta en el cid,3.0,3.0,,23.255278,-106.450894,2024-09-04 11:28:07.772966,lamudi,36000.0,,25012,25,012,Mazatlán,renta
+casa en renta en mediterraneo club residencial,,2.0,,23.272374,-106.445751,2024-09-04 11:28:07.772966,lamudi,22000.0,,25012,25,012,Mazatlán,renta
+casa en renta en ciudad de mazatlan,3.0,2.0,,23.287141,-106.421927,2024-09-04 11:28:07.772966,lamudi,14000.0,,25012,25,012,Mazatlán,renta
+casa en renta en marina mazatlan,3.0,3.0,,23.277566,-106.452737,2024-09-04 11:28:07.772966,lamudi,39900.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,4.0,,23.287472,-106.468857,2024-09-04 11:28:07.772966,lamudi,27500.0,,25012,25,012,Mazatlán,renta
+casa en renta en club real,3.0,3.0,,23.269398,-106.447213,2024-09-04 11:28:07.772966,lamudi,40000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en balcones de loma linda,2.0,2.0,,23.202262,-106.42876,2024-09-04 11:28:07.772966,lamudi,45000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,4.0,4.0,,23.298981,-106.478335,2024-09-04 11:28:07.772966,lamudi,35000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,3.0,,23.305479,-106.478069,2024-09-04 11:28:07.772966,lamudi,33000.0,,25012,25,012,Mazatlán,renta
+casa en renta en ciudad de mazatlan,3.0,3.0,,23.27953,-106.420807,2024-09-04 11:28:07.772966,lamudi,16500.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,2.0,,23.297083,-106.476847,2024-09-04 11:28:07.772966,lamudi,17000.0,,25012,25,012,Mazatlán,renta
+casa en renta en ciudad de mazatlan,3.0,3.0,,23.312281,-106.425026,2024-09-04 11:28:07.772966,lamudi,20000.0,,25012,25,012,Mazatlán,renta
+casa en renta en alameda,3.0,2.0,,23.24116,-106.434335,2024-09-04 11:28:07.772966,lamudi,27000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,2.0,,23.291417,-106.469055,2024-09-04 11:28:07.772966,lamudi,21000.0,,25012,25,012,Mazatlán,renta
+casa en renta en royal country,3.0,2.0,,23.291596,-106.472613,2024-09-04 11:28:07.772966,lamudi,15000.0,,25012,25,012,Mazatlán,renta
+casa en renta en ciudad de mazatlan,3.0,4.0,,23.277451,-106.452341,2024-09-04 11:28:07.772966,lamudi,38000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en centro,2.0,2.0,,23.205346,-106.428325,2024-09-04 11:28:07.772966,lamudi,40000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,2.0,,23.3024,-106.47899,2024-09-04 11:28:07.772966,lamudi,20000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en real pacifico,2.0,2.0,,23.276505,-106.432468,2024-09-04 11:28:07.772966,lamudi,20000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en isla residencial,2.0,2.0,154.0,23.243535,-106.420528,2024-09-04 11:28:07.772966,lamudi,23000.0,149.35064935064935,25012,25,012,Mazatlán,renta
+casa en renta en ciudad de mazatlan,3.0,2.0,,23.287141,-106.421927,2024-09-04 11:28:07.772966,lamudi,15000.0,,25012,25,012,Mazatlán,renta
+casa en renta en cerritos resort,2.0,2.0,,23.299078,-106.483657,2024-09-04 11:28:07.772966,lamudi,25000.0,,25012,25,012,Mazatlán,renta
+casa en renta en cerritos resort,4.0,2.0,,23.306418,-106.477959,2024-09-04 11:28:07.772966,lamudi,20000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en ferrocarrilera,2.0,2.0,,23.216192,-106.417767,2024-09-04 11:28:07.772966,lamudi,15000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en centro,2.0,2.0,120.0,23.205346,-106.428325,2024-09-04 11:28:07.772966,lamudi,33500.0,279.1666666666667,25012,25,012,Mazatlán,renta
+casa en renta en marina garden,32.0,2.0,,23.282451,-106.468304,2024-09-04 11:28:07.772966,lamudi,20000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo country club,2.0,1.0,87.0,23.265414,-106.463563,2024-09-04 11:28:07.772966,lamudi,13000.0,149.42528735632183,25012,25,012,Mazatlán,renta
+casa en renta en el cid,3.0,2.0,,23.255278,-106.450894,2024-09-04 11:28:07.772966,lamudi,25000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en mediterraneo club residencial,2.0,1.0,,23.272645,-106.445902,2024-09-04 11:28:07.772966,lamudi,18000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,4.0,4.0,,23.289988,-106.470772,2024-09-04 11:28:07.772966,lamudi,19000.0,,25012,25,012,Mazatlán,renta
+casa en renta en quintas del mar,2.0,2.0,,23.295783,-106.480712,2024-09-04 11:28:07.772966,lamudi,35000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en ciudad de mazatlan,3.0,3.0,,23.297952,-106.482369,2024-09-04 11:28:07.772966,lamudi,38000.0,,25012,25,012,Mazatlán,renta
+casa en renta en marina mazatlan,,,,23.277579,-106.452737,2024-09-04 11:28:07.772966,lamudi,40000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en ferrocarrilera,2.0,2.0,,23.218056,-106.421943,2024-09-04 11:28:07.772966,lamudi,35000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en alameda,2.0,2.0,,23.243192,-106.436661,2024-09-04 11:28:07.772966,lamudi,23500.0,,25012,25,012,Mazatlán,renta
+departamento en renta en alameda,2.0,2.0,,23.243192,-106.436661,2024-09-04 11:28:07.772966,lamudi,23000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en isla residencial,3.0,3.0,,23.243657,-106.42108,2024-09-04 11:28:07.772966,lamudi,32000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en marina mazatlan,3.0,3.0,,23.270967,-106.456776,2024-09-04 11:28:07.772966,lamudi,25000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en alameda,2.0,2.0,,23.243192,-106.436661,2024-09-04 11:28:07.772966,lamudi,21000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en centro,2.0,2.0,,23.206288,-106.42274,2024-09-04 11:28:07.772966,lamudi,18000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo country club,3.0,2.0,,23.265414,-106.463563,2024-09-04 11:28:07.772966,lamudi,25000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en marina mazatlan,2.0,2.0,,23.288163,-106.456836,2024-09-04 11:28:07.772966,lamudi,17000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en los pinos,2.0,2.0,,23.206622,-106.427889,2024-09-04 11:28:07.772966,lamudi,26000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo cerritos,3.0,3.0,127.0,23.290939,-106.470268,2024-09-04 11:28:07.772966,lamudi,21000.0,165.35433070866142,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,3.0,,23.297242,-106.478776,2024-09-04 11:28:07.772966,lamudi,42000.0,,25012,25,012,Mazatlán,renta
+casa en renta en marina mazatlan,4.0,,,23.277579,-106.452737,2024-09-04 11:28:07.772966,lamudi,40000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en ciudad de mazatlan,2.0,2.0,,23.275335,-106.457332,2024-09-04 11:28:07.772966,lamudi,23000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en isla residencial,2.0,2.0,,23.243535,-106.420528,2024-09-04 11:28:07.772966,lamudi,25000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en real del valle,2.0,,,23.286383,-106.430281,2024-09-04 11:28:07.772966,lamudi,11500.0,,25012,25,012,Mazatlán,renta
+condominio horizontal en renta en marina mazatlan,2.0,2.0,68.0,23.287837,-106.443489,2024-09-04 11:28:07.772966,lamudi,20000.0,294.11764705882354,25012,25,012,Mazatlán,renta
+casa en renta en el cid,4.0,4.0,472.0,23.257136,-106.450612,2024-09-04 11:28:07.772966,lamudi,38000.0,80.50847457627118,25012,25,012,Mazatlán,renta
+casa en renta en mazatlan,3.0,3.0,135.0,23.296231,-106.434812,2024-09-04 11:28:07.772966,lamudi,25000.0,185.1851851851852,25012,25,012,Mazatlán,renta
+casa en renta en el encanto,3.0,2.0,,23.258956,-106.457704,2024-09-04 11:28:07.772966,lamudi,30000.0,,25012,25,012,Mazatlán,renta
+casa en renta en el cid,4.0,4.0,270.0,23.255278,-106.450894,2024-09-04 11:28:07.772966,lamudi,50000.0,185.1851851851852,25012,25,012,Mazatlán,renta
+casa en renta en el cid,4.0,5.0,,23.252974,-106.45468,2024-09-04 11:28:07.772966,lamudi,50000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en zona dorada,2.0,2.0,95.0,23.245892,-106.454207,2024-09-04 11:28:07.772966,lamudi,31500.0,331.57894736842104,25012,25,012,Mazatlán,renta
+departamento en renta en telleria,2.0,2.0,,23.228057,-106.42957,2024-09-04 11:28:07.772966,lamudi,32000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,3.0,,23.287664,-106.467773,2024-09-04 11:28:07.772966,lamudi,24500.0,,25012,25,012,Mazatlán,renta
+departamento en renta en venadillo,2.0,2.0,,23.289606,-106.442604,2024-09-04 11:28:07.772966,lamudi,24000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,4.0,3.0,,23.291145,-106.470008,2024-09-04 11:28:07.772966,lamudi,25000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en marina mazatlan,3.0,3.0,,23.270913,-106.456722,2024-09-04 11:28:07.772966,lamudi,27000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en las gaviotas,3.0,2.0,,23.247252,-106.45163,2024-09-04 11:28:07.772966,lamudi,21000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,2.0,,23.298981,-106.478335,2024-09-04 11:28:07.772966,lamudi,30000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en marina mazatlan,3.0,3.0,250.0,23.272412,-106.454982,2024-09-04 11:28:07.772966,lamudi,40000.0,160.0,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo cerritos,2.0,2.0,,23.282481,-106.468356,2024-09-04 11:28:07.772966,lamudi,20000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en marina mazatlan,3.0,2.0,,23.271305,-106.453069,2024-09-04 11:28:07.772966,lamudi,25000.0,,25012,25,012,Mazatlán,renta
+casa en renta en el cid,3.0,2.0,,23.252974,-106.45468,2024-09-04 11:28:07.772966,lamudi,35000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en club real,3.0,2.0,,23.272094,-106.446075,2024-09-04 11:28:07.772966,lamudi,33000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en ferrocarrilera,4.0,4.0,200.0,23.220552,-106.42318,2024-09-04 11:28:07.772966,lamudi,55000.0,275.0,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo country club,1.0,1.0,,23.262684,-106.462673,2024-09-04 11:28:07.772966,lamudi,14500.0,,25012,25,012,Mazatlán,renta
+departamento en renta en las gaviotas,2.0,2.0,,23.246281,-106.451998,2024-09-04 11:28:07.772966,lamudi,18000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en cerritos resort,2.0,2.0,,23.276905,-106.467499,2024-09-04 11:28:07.772966,lamudi,42000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo cerritos,2.0,2.0,,23.291257,-106.474182,2024-09-04 11:28:07.772966,lamudi,46000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo country club,3.0,2.0,,23.265414,-106.463563,2024-09-04 11:28:07.772966,lamudi,17000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en ferrocarrilera,3.0,2.0,,23.221856,-106.422892,2024-09-04 11:28:07.772966,lamudi,23000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real del valle,4.0,3.0,190.0,23.286094,-106.425514,2024-09-04 11:28:07.772966,lamudi,23000.0,121.05263157894736,25012,25,012,Mazatlán,renta
+casa en renta en mazatlan,2.0,2.0,90.0,23.296231,-106.434812,2024-09-04 11:28:07.772966,lamudi,17000.0,188.88888888888889,25012,25,012,Mazatlán,renta
+casa en renta en mediterraneo club residencial,3.0,2.0,162.0,23.272374,-106.445751,2024-09-04 11:28:07.772966,lamudi,27000.0,166.66666666666666,25012,25,012,Mazatlán,renta
+casa en renta en mediterraneo club residencial,3.0,2.0,,23.272374,-106.445751,2024-09-04 11:28:07.772966,lamudi,24000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real del valle,4.0,3.0,,23.286094,-106.425514,2024-09-04 11:28:07.772966,lamudi,20000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real del valle,4.0,3.0,201.0,23.289265,-106.424372,2024-09-04 11:28:07.772966,lamudi,5250000.0,26119.402985074623,25012,25,012,Mazatlán,renta
+casa en renta en el cid,3.0,2.0,,23.261542,-106.446033,2024-09-04 11:28:07.772966,lamudi,38000.0,,25012,25,012,Mazatlán,renta
+casa en renta en club real,3.0,3.0,,23.269398,-106.447213,2024-09-04 11:28:07.772966,lamudi,28000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,2.0,,23.305479,-106.478069,2024-09-04 11:28:07.772966,lamudi,28000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,2.0,,23.287671,-106.467829,2024-09-04 11:28:07.772966,lamudi,19500.0,,25012,25,012,Mazatlán,renta
+casa en renta en el cid,3.0,3.0,,23.255278,-106.450894,2024-09-04 11:28:07.772966,lamudi,85000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real del valle,4.0,3.0,,23.286383,-106.430281,2024-09-04 11:28:07.772966,lamudi,22000.0,,25012,25,012,Mazatlán,renta
+casa en renta en el cid,3.0,4.0,,23.252974,-106.45468,2024-09-04 11:28:07.772966,lamudi,45000.0,,25012,25,012,Mazatlán,renta
+casa en renta en el cid,3.0,4.0,,23.255278,-106.450894,2024-09-04 11:28:07.772966,lamudi,38000.0,,25012,25,012,Mazatlán,renta
+casa en renta en balcones de loma linda,3.0,2.0,,23.202262,-106.42876,2024-09-04 11:28:07.772966,lamudi,50000.0,,25012,25,012,Mazatlán,renta
+casa en renta en playas infonavit,4.0,4.0,,23.251619,-106.422828,2024-09-04 11:28:07.772966,lamudi,45000.0,,25012,25,012,Mazatlán,renta
+casa en renta en el cid,2.0,2.0,,23.255278,-106.450894,2024-09-04 11:28:07.772966,lamudi,26500.0,,25012,25,012,Mazatlán,renta
+departamento en renta en ciudad de mazatlan,2.0,2.0,,23.286446,-106.454914,2024-09-04 11:28:07.772966,lamudi,19000.0,,25012,25,012,Mazatlán,renta
+casa en renta en club real,3.0,2.0,,23.269398,-106.447213,2024-09-04 11:28:07.772966,lamudi,35000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en real del valle,2.0,2.0,,23.275569,-106.42785,2024-09-04 11:28:07.772966,lamudi,18000.0,,25012,25,012,Mazatlán,renta
+casa en renta en cerritos resort,3.0,2.0,,23.306722,-106.477901,2024-09-04 11:28:07.772966,lamudi,20000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en real del valle,2.0,1.0,,23.286383,-106.430281,2024-09-04 11:28:07.772966,lamudi,13000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real del valle,2.0,2.0,,23.286383,-106.430281,2024-09-04 11:28:07.772966,lamudi,17500.0,,25012,25,012,Mazatlán,renta
+casa en renta en playas infonavit,4.0,3.0,,23.251619,-106.422828,2024-09-04 11:28:07.772966,lamudi,42000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real del valle,3.0,1.0,,23.275569,-106.42785,2024-09-04 11:28:07.772966,lamudi,15000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en genaro estrada calderon,2.0,2.0,,23.26383,-106.368787,2024-09-04 11:28:07.772966,lamudi,25000.0,,25012,25,012,Mazatlán,renta
+casa en renta en pradera dorada,4.0,4.0,,23.270198,-106.368031,2024-09-04 11:28:07.772966,lamudi,35000.0,,25012,25,012,Mazatlán,renta
+casa en renta en club real,4.0,4.0,,23.269398,-106.447213,2024-09-04 11:28:07.772966,lamudi,48000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en ciudad de mazatlan,2.0,2.0,,23.286446,-106.454914,2024-09-04 11:28:07.772966,lamudi,18000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en villa galaxia,3.0,3.0,,23.240507,-106.414831,2024-09-04 11:28:07.772966,lamudi,35000.0,,25012,25,012,Mazatlán,renta
+casa en renta en mediterraneo club residencial,3.0,3.0,,23.273764,-106.44557,2024-09-04 11:28:07.772966,lamudi,19000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real del valle,3.0,2.0,,23.294649,-106.419532,2024-09-04 11:28:07.772966,lamudi,23000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real pacifico,4.0,3.0,,23.273602,-106.434124,2024-09-04 11:28:07.772966,lamudi,30000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,3.0,,23.305479,-106.478069,2024-09-04 11:28:07.772966,lamudi,40000.0,,25012,25,012,Mazatlán,renta
+casa en renta en santa virginia,3.0,3.0,,23.238552,-106.421492,2024-09-04 11:28:07.772966,lamudi,15000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en lomas de mazatlan,2.0,2.0,,23.244349,-106.445004,2024-09-04 11:28:07.772966,lamudi,16000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en lomas de mazatlan,1.0,1.0,,23.244349,-106.445004,2024-09-04 11:28:07.772966,lamudi,15000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en federico velarde,2.0,2.0,,23.249415,-106.411142,2024-09-04 11:28:07.772966,lamudi,40000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en marina mazatlan,3.0,3.0,,23.271305,-106.453069,2024-09-04 11:28:07.772966,lamudi,21500.0,,25012,25,012,Mazatlán,renta
+departamento en renta en marina mazatlan,2.0,2.0,,23.283969,-106.444781,2024-09-04 11:28:07.772966,lamudi,17500.0,,25012,25,012,Mazatlán,renta
+casa en renta en real del valle,2.0,1.0,,23.298067,-106.429527,2024-09-04 11:28:07.772966,lamudi,16000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo cerritos,2.0,2.0,,23.298037,-106.480609,2024-09-04 11:28:07.772966,lamudi,35000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo cerritos,2.0,2.0,,23.307434,-106.474483,2024-09-04 11:28:07.772966,lamudi,14000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real del valle,3.0,2.0,,23.286383,-106.430281,2024-09-04 11:28:07.772966,lamudi,18000.0,,25012,25,012,Mazatlán,renta
+casa en renta en la joya,3.0,2.0,,23.263536,-106.419879,2024-09-04 11:28:07.772966,lamudi,15000.0,,25012,25,012,Mazatlán,renta
+casa en renta en el cid,3.0,2.0,,23.255278,-106.450894,2024-09-04 11:28:07.772966,lamudi,40000.0,,25012,25,012,Mazatlán,renta
+casa en renta en quinta real,3.0,2.0,,23.258021,-106.421173,2024-09-04 11:28:07.772966,lamudi,15000.0,,25012,25,012,Mazatlán,renta
+casa en renta en plaza reforma,3.0,2.0,,23.248141,-106.434882,2024-09-04 11:28:07.772966,lamudi,17000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,3.0,,23.307434,-106.474483,2024-09-04 11:28:07.772966,lamudi,18500.0,,25012,25,012,Mazatlán,renta
+casa en renta en el cid,3.0,2.0,,23.255278,-106.450894,2024-09-04 11:28:07.772966,lamudi,24000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en los pinos,2.0,2.0,,23.205892,-106.427275,2024-09-04 11:28:07.772966,lamudi,22000.0,,25012,25,012,Mazatlán,renta
+casa en renta en paseo alameda,3.0,4.0,,23.265996,-106.426463,2024-09-04 11:28:07.772966,lamudi,25000.0,,25012,25,012,Mazatlán,renta
+casa en renta en ciudad de mazatlan,3.0,2.0,,23.287141,-106.421927,2024-09-04 11:28:07.772966,lamudi,16000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en cerro del vigia,2.0,2.0,,23.18847,-106.425206,2024-09-04 11:28:07.772966,lamudi,24000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en las gaviotas,1.0,1.0,,23.248586,-106.452425,2024-09-04 11:28:07.772966,lamudi,12000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en reforma,2.0,2.0,,23.213457,-106.420758,2024-09-04 11:28:07.772966,lamudi,30000.0,,25012,25,012,Mazatlán,renta
+casa en renta en villas de rueda,3.0,4.0,,23.287421,-106.473854,2024-09-04 11:28:07.772966,lamudi,40000.0,,25012,25,012,Mazatlán,renta
+casa en renta en centro,4.0,3.0,,23.203197,-106.420835,2024-09-04 11:28:07.772966,lamudi,20000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en los pinos,2.0,2.0,,23.205892,-106.427275,2024-09-04 11:28:07.772966,lamudi,21000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,3.0,3.0,,23.297321,-106.477756,2024-09-04 11:28:07.772966,lamudi,18000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en ferrocarrilera,3.0,2.0,,23.217779,-106.419987,2024-09-04 11:28:07.772966,lamudi,16000.0,,25012,25,012,Mazatlán,renta
+casa en renta en club real,4.0,3.0,,23.269398,-106.447213,2024-09-04 11:28:07.772966,lamudi,45000.0,,25012,25,012,Mazatlán,renta
+casa en renta en playa sur,3.0,2.0,,23.188578,-106.419261,2024-09-04 11:28:07.772966,lamudi,25000.0,,25012,25,012,Mazatlán,renta
+casa en renta en mediterraneo club residencial,3.0,2.0,,23.272374,-106.445751,2024-09-04 11:28:07.772966,lamudi,23000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real pacifico,2.0,1.0,,23.275943,-106.433234,2024-09-04 11:28:07.772966,lamudi,11500.0,,25012,25,012,Mazatlán,renta
+casa en renta en lomas de mazatlan,3.0,2.0,,23.245537,-106.446151,2024-09-04 11:28:07.772966,lamudi,25000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en ferrocarrilera,2.0,2.0,,23.221659,-106.420712,2024-09-04 11:28:07.772966,lamudi,16000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en casa blanca,2.0,2.0,,23.235549,-106.42972,2024-09-04 11:28:07.772966,lamudi,25000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real pacifico,2.0,1.0,,23.275943,-106.433234,2024-09-04 11:28:07.772966,lamudi,12000.0,,25012,25,012,Mazatlán,renta
+casa en renta en el dorado,3.0,2.0,,23.251314,-106.453393,2024-09-04 11:28:07.772966,lamudi,14000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real del mar,4.0,3.0,,23.290961,-106.476847,2024-09-04 11:28:07.772966,lamudi,35000.0,,25012,25,012,Mazatlán,renta
+casa en renta en las gaviotas,2.0,2.0,,23.248586,-106.452425,2024-09-04 11:28:07.772966,lamudi,25000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real del valle,3.0,2.0,,23.294649,-106.419532,2024-09-04 11:28:07.772966,lamudi,13000.0,,25012,25,012,Mazatlán,renta
+casa en renta en royal country,3.0,2.0,,23.291596,-106.472613,2024-09-04 11:28:07.772966,lamudi,13000.0,,25012,25,012,Mazatlán,renta
+casa en renta en el cid,2.0,2.0,,23.252974,-106.45468,2024-09-04 11:28:07.772966,lamudi,25000.0,,25012,25,012,Mazatlán,renta
+casa en renta en lomas del bosque,3.0,2.0,,23.256412,-106.416663,2024-09-04 11:28:07.772966,lamudi,15000.0,,25012,25,012,Mazatlán,renta
+casa en renta en lomas de mazatlan,4.0,3.0,,23.244349,-106.445004,2024-09-04 11:28:07.772966,lamudi,30000.0,,25012,25,012,Mazatlán,renta
+casa en renta en el dorado,3.0,2.0,,23.251429,-106.453102,2024-09-04 11:28:07.772966,lamudi,20000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo cerritos,2.0,1.0,,23.287671,-106.467829,2024-09-04 11:28:07.772966,lamudi,20000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en las gaviotas,2.0,1.0,,23.246281,-106.451998,2024-09-04 11:28:07.772966,lamudi,12000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en lomas de mazatlan,2.0,1.0,,23.244349,-106.445004,2024-09-04 11:28:07.772966,lamudi,16000.0,,25012,25,012,Mazatlán,renta
+casa en renta en sabalo cerritos,2.0,2.0,,23.291322,-106.474221,2024-09-04 11:28:07.772966,lamudi,16000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en ferrocarrilera,3.0,2.0,,23.223787,-106.421929,2024-09-04 11:28:07.772966,lamudi,25000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real del valle,3.0,2.0,,23.275569,-106.42785,2024-09-04 11:28:07.772966,lamudi,30000.0,,25012,25,012,Mazatlán,renta
+casa en renta en el cid,3.0,2.0,,23.252974,-106.45468,2024-09-04 11:28:07.772966,lamudi,22000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en el toreo,2.0,2.0,,23.24867,-106.438379,2024-09-04 11:28:07.772966,lamudi,14000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en el toreo,2.0,2.0,,23.24867,-106.438379,2024-09-04 11:28:07.772966,lamudi,15000.0,,25012,25,012,Mazatlán,renta
+casa en renta en cerritos resort,3.0,3.0,,23.306418,-106.477959,2024-09-04 11:28:07.772966,lamudi,30000.0,,25012,25,012,Mazatlán,renta
+casa en renta en flamingos,3.0,2.0,,23.236145,-106.437274,2024-09-04 11:28:07.772966,lamudi,20000.0,,25012,25,012,Mazatlán,renta
+casa en renta en centro,2.0,2.0,,23.197344,-106.423765,2024-09-04 11:28:07.772966,lamudi,20000.0,,25012,25,012,Mazatlán,renta
+casa en renta en plaza reforma,3.0,2.0,,23.248141,-106.434882,2024-09-04 11:28:07.772966,lamudi,15000.0,,25012,25,012,Mazatlán,renta
+casa en renta en hacienda los mangos,3.0,3.0,,23.263257,-106.426969,2024-09-04 11:28:07.772966,lamudi,16000.0,,25012,25,012,Mazatlán,renta
+casa en renta en ciudad de mazatlan,3.0,2.0,,23.287141,-106.421927,2024-09-04 11:28:07.772966,lamudi,17000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real del valle,4.0,3.0,,23.275569,-106.42785,2024-09-04 11:28:07.772966,lamudi,27000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real del valle,2.0,1.0,,23.275569,-106.42785,2024-09-04 11:28:07.772966,lamudi,12000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo country club,2.0,1.0,,23.265414,-106.463563,2024-09-04 11:28:07.772966,lamudi,12000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real del valle,3.0,2.0,,23.294649,-106.419532,2024-09-04 11:28:07.772966,lamudi,12000.0,,25012,25,012,Mazatlán,renta
+casa en renta en las gaviotas,3.0,2.0,,23.245244,-106.45164,2024-09-04 11:28:07.772966,lamudi,32000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en real del valle,2.0,2.0,71.0,23.282649,-106.428552,2024-09-04 11:28:07.772966,lamudi,12500.0,176.05633802816902,25012,25,012,Mazatlán,renta
+departamento en renta en cerritos resort,3.0,2.0,,23.306722,-106.477901,2024-09-04 11:28:07.772966,lamudi,12000.0,,25012,25,012,Mazatlán,renta
+casa en renta en real del valle,3.0,2.0,,23.286094,-106.425514,2024-09-04 11:28:07.772966,lamudi,25000.0,,25012,25,012,Mazatlán,renta
+casa en renta en el dorado,3.0,2.0,,23.251314,-106.453393,2024-09-04 11:28:07.772966,lamudi,15000.0,,25012,25,012,Mazatlán,renta
+casa en renta en lomas de mazatlan,3.0,3.0,,23.245537,-106.446151,2024-09-04 11:28:07.772966,lamudi,20000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en real pacifico,2.0,2.0,,23.273602,-106.434124,2024-09-04 11:28:07.772966,lamudi,13000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en casa blanca,2.0,2.0,,23.237351,-106.430853,2024-09-04 11:28:07.772966,lamudi,13950.0,,25012,25,012,Mazatlán,renta
+departamento en renta en costa azul,3.0,3.0,,23.258283,-106.392374,2024-09-04 11:28:07.772966,lamudi,30000.0,,25012,25,012,Mazatlán,renta
+casa en renta en el cid,4.0,3.0,,23.255278,-106.450894,2024-09-04 11:28:07.772966,lamudi,35000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en centro,2.0,1.0,,23.205118,-106.419976,2024-09-04 11:28:07.772966,lamudi,16000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en cerritos resort,2.0,2.0,,23.307572,-106.477456,2024-09-04 11:28:07.772966,lamudi,14000.0,,25012,25,012,Mazatlán,renta
+casa en renta en hacienda los mangos,3.0,1.0,,23.261169,-106.426232,2024-09-04 11:28:07.772966,lamudi,12000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en real del valle,2.0,2.0,,23.275569,-106.42785,2024-09-04 11:28:07.772966,lamudi,13000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en ferrocarrilera,2.0,2.0,,23.217951,-106.421199,2024-09-04 11:28:07.772966,lamudi,30000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en alameda,2.0,2.0,,23.243192,-106.436661,2024-09-04 11:28:07.772966,lamudi,22000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo cerritos,2.0,2.0,,23.290939,-106.470268,2024-09-04 11:28:07.772966,lamudi,13500.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo cerritos,2.0,2.0,,23.291257,-106.474182,2024-09-04 11:28:07.772966,lamudi,45000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo country club,2.0,2.0,90.0,23.265414,-106.463563,2024-09-04 11:28:07.772966,lamudi,13000.0,144.44444444444446,25012,25,012,Mazatlán,renta
+departamento en renta en ferrocarrilera,2.0,1.0,,23.216192,-106.417767,2024-09-04 11:28:07.772966,lamudi,13000.0,,25012,25,012,Mazatlán,renta
+casa en renta en centro,2.0,3.0,,23.196582,-106.423713,2024-09-04 11:28:07.772966,lamudi,25000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en reforma,2.0,1.0,,23.213457,-106.420758,2024-09-04 11:28:07.772966,lamudi,25000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en el dorado,2.0,2.0,,23.251429,-106.453102,2024-09-04 11:28:07.772966,lamudi,15000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en lomas de mazatlan,2.0,2.0,,23.244349,-106.445004,2024-09-04 11:28:07.772966,lamudi,15000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en playa sur,2.0,,,23.188578,-106.419261,2024-09-04 11:28:07.772966,lamudi,15000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en las gaviotas,2.0,,,23.246281,-106.451998,2024-09-04 11:28:07.772966,lamudi,15000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo country club,1.0,,38.0,23.262468,-106.46359,2024-09-04 11:28:07.772966,lamudi,12000.0,315.7894736842105,25012,25,012,Mazatlán,renta
+departamento en renta en telleria,2.0,2.0,161.0,23.225477,-106.42634,2024-09-04 11:28:07.772966,lamudi,34000.0,211.1801242236025,25012,25,012,Mazatlán,renta
+casa en renta en quintas del mar,3.0,2.0,250.0,23.2957825,-106.4807122,2024-09-04 11:28:07.772966,lamudi,28000.0,112.0,25012,25,012,Mazatlán,renta
+loft en renta en independencia,1.0,1.0,20.0,23.220183,-106.41446,2024-09-04 11:28:07.772966,lamudi,3000.0,150.0,25012,25,012,Mazatlán,renta
+departamento en azul marino vacacional mensual,,2.0,,23.2990776,-106.4836574,2024-09-04 11:20:59.743440,easybroker,2500.0,,25012,25,012,Mazatlán,renta
+casa en renta en almar residencial,3.0,4.0,163.0,23.2961316461,-106.4757102429,2024-09-04 11:20:59.743440,easybroker,22000.0,134.96932515337423,25012,25,012,Mazatlán,renta
+condominio en renta en torre azul,5.0,4.0,283.0,23.2176843255,-106.4215564728,2024-09-04 11:20:59.743440,easybroker,60000.0,212.0141342756184,25012,25,012,Mazatlán,renta
+casa en renta en coto diamante,3.0,2.0,110.87,23.2904308999,-106.4683770938,2024-09-04 11:20:59.743440,easybroker,20000.0,180.39144944529627,25012,25,012,Mazatlán,renta
+departamento en renta en pacifika marina condos,3.0,2.0,,23.2737581,-106.3982246,2024-09-04 11:20:59.743440,easybroker,29000.0,,25012,25,012,Mazatlán,renta
+casa en renta en montecarlo residencial,3.0,2.0,,23.2676367,-106.420815,2024-09-04 11:20:59.743440,easybroker,17000.0,,25012,25,012,Mazatlán,renta
+condominio en renta frente al mar,2.0,2.0,94.0,23.2054322,-106.4281463,2024-09-04 11:20:59.743440,easybroker,33697.116500000004,358.4799627659575,25012,25,012,Mazatlán,renta
+casa en renta en el centro,3.0,2.0,,23.2015071,-106.4230347,2024-09-04 11:20:59.743440,easybroker,25000.0,,25012,25,012,Mazatlán,renta
+condominio en renta en portofino,3.0,3.0,110.0,23.2713048,-106.4530686,2024-09-04 11:20:59.743440,easybroker,23000.0,209.0909090909091,25012,25,012,Mazatlán,renta
+condominio en renta en camino al mar,3.0,3.0,416.96,23.2456442083,-106.4536249629,2024-09-04 11:20:59.743440,easybroker,120750.0,289.5961243284728,25012,25,012,Mazatlán,renta
+azul pacific  renta,3.0,3.0,,23.3075767457,-106.4755439758,2024-09-04 11:20:59.743440,easybroker,26000.0,,25012,25,012,Mazatlán,renta
+casa en renta el almar residencial,3.0,4.0,150.0,23.2973214,-106.4777561,2024-09-04 11:20:59.743440,easybroker,19000.0,126.66666666666669,25012,25,012,Mazatlán,renta
+vive a solo unas cuadras de la playa mazatlan,2.0,2.0,72.0,23.2917795,-106.4674895,2024-09-04 11:20:59.743440,easybroker,13800.0,191.66666666666663,25012,25,012,Mazatlán,renta
+departamento en renta en azul pacifico,2.0,2.0,64.0,23.307931464,-106.4731889963,2024-09-04 11:20:59.743440,easybroker,11000.0,171.875,25012,25,012,Mazatlán,renta
+departamento en renta en el encanto marina mazatlan frente al centro de convenci,3.0,3.0,131.6,23.2920553,-106.4590842,2024-09-04 11:20:59.743440,easybroker,28000.0,212.76595744680853,25012,25,012,Mazatlán,renta
+casa en renta en casas el deldfin,2.0,,,23.3385519097,-106.4875604475,2024-09-04 11:20:59.743440,easybroker,29750.25,,25012,25,012,Mazatlán,renta
+casa en renta en lomas de mazatlan,3.0,2.0,166.9,23.2410283,-106.4459187,2024-09-04 11:20:59.743440,easybroker,22000.0,131.81545835829837,25012,25,012,Mazatlán,renta
+departamento en renta  palmilla gran residencial,2.0,,77.0,23.2872576908,-106.4665210256,2024-09-04 11:20:59.743440,easybroker,18500.0,240.25974025974023,25012,25,012,Mazatlán,renta
+departamento en renta portofino,2.0,2.0,128.0,23.2711638229,-106.4530134091,2024-09-04 11:20:59.743440,easybroker,25000.0,195.3125,25012,25,012,Mazatlán,renta
+departamento en renta en el centro,2.0,,78.03,23.1961098,-106.4233907,2024-09-04 11:20:59.743440,easybroker,11000.0,140.97142124823785,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo country,2.0,2.0,,23.2635796,-106.462567,2024-09-04 11:20:59.743440,easybroker,13000.0,,25012,25,012,Mazatlán,renta
+condominio en renta en las gavias club residencial,2.0,2.0,130.0,23.2319083,-106.4342137,2024-09-04 11:20:59.743440,easybroker,24000.0,184.6153846153846,25012,25,012,Mazatlán,renta
+renta departamento amuebladofracc turquesamazatlan,2.0,2.0,,23.2756361,-106.4368092,2024-09-04 11:20:59.743440,easybroker,20000.0,,25012,25,012,Mazatlán,renta
+casa en el fraccionamiento playa sur,2.0,2.0,150.0,23.1899005,-106.4211255,2024-09-04 11:20:59.743440,easybroker,15000.0,100.0,25012,25,012,Mazatlán,renta
+departamento en torre milan,2.0,2.0,55.76,23.247182029,-106.4528471231,2024-09-04 11:20:59.743440,easybroker,16000.0,286.94404591104734,25012,25,012,Mazatlán,renta
+depto. gaviotas blues en renta,2.0,2.0,75.0,23.248207233,-106.4535552253,2024-09-04 11:20:59.743440,easybroker,15000.0,200.0,25012,25,012,Mazatlán,renta
+en renta en sabalo country sin amueblar con 2 recamaras 2 banos,2.0,2.0,,23.2592178213,-106.4587111637,2024-09-04 11:20:59.743440,easybroker,15000.0,,25012,25,012,Mazatlán,renta
+casa en renta en coto 11 fraccionamiento real del valle,2.0,2.0,120.0,23.2859781,-106.4318513,2024-09-04 11:20:59.743440,easybroker,17000.0,141.66666666666666,25012,25,012,Mazatlán,renta
+renta  real del valle coto iv,3.0,2.0,167.0,23.2783289388,-106.4276182277,2024-09-04 11:20:59.743440,easybroker,16000.0,95.80838323353294,25012,25,012,Mazatlán,renta
+condominio en marina platino plus,2.0,2.0,104.0,23.2716689,-106.4597284,2024-09-04 11:20:59.743440,easybroker,30000.0,288.46153846153845,25012,25,012,Mazatlán,renta
+encanto la marina en renta,,,75.0,23.2726065,-106.4467527,2024-09-04 11:20:59.743440,easybroker,13500.0,180.0,25012,25,012,Mazatlán,renta
+departamento en renta en las gavias frente al mar,,,,23.2769442387,-106.4670735421,2024-09-04 11:20:59.743440,easybroker,32000.0,,25012,25,012,Mazatlán,renta
+departamento de lujo en renta con vista panoramica y amplia terraza en malecon,3.0,2.0,,23.2178223647,-106.4216317295,2024-09-04 11:20:59.743440,easybroker,40000.0,,25012,25,012,Mazatlán,renta
+casa en renta en palmilla grand residencial,3.0,2.0,,23.2876641,-106.4677728,2024-09-04 11:20:59.743440,easybroker,20000.0,,25012,25,012,Mazatlán,renta
+casa en renta amueblada en real del valle coto 14,3.0,3.0,193.73,23.2846116495,-106.4253437508,2024-09-04 11:20:59.743440,easybroker,18500.0,95.49372838486552,25012,25,012,Mazatlán,renta
+casa en renta amueblada en real del valle coto 15 mazatlan,3.0,3.0,139.55,23.2899519516,-106.4276977256,2024-09-04 11:20:59.743440,easybroker,18500.0,132.56897169473305,25012,25,012,Mazatlán,renta
+depa amueblado de lujo zona exclusiva  en mazatlan,2.0,2.0,60.0,23.2634679,-106.4609022,2024-09-04 11:20:59.743440,easybroker,22000.0,366.6666666666667,25012,25,012,Mazatlán,renta
+casa en renta en lomas de mazatlan cerca de zona dorada y av rafael buelna.,3.0,3.0,,23.2445431,-106.4443643,2024-09-04 11:20:59.743440,easybroker,19500.0,,25012,25,012,Mazatlán,renta
+departamento en renta gavias grand con vista a playa,3.0,3.0,130.0,23.2991545,-106.4815048,2024-09-04 11:20:59.743440,easybroker,40000.0,307.6923076923077,25012,25,012,Mazatlán,renta
+pais sabalo 6701,2.0,2.0,104.19,23.2652082,-106.4606805,2024-09-04 11:20:59.743440,easybroker,14500.0,139.16882618293502,25012,25,012,Mazatlán,renta
+amplio y hermoso departamento en renta en las gaviotas a 4 cuadras de la playa,2.0,2.0,,23.248916985,-106.4505940842,2024-09-04 11:20:59.743440,easybroker,18000.0,,25012,25,012,Mazatlán,renta
+se renta casa en 5a gaviotas mazatlan,3.0,2.0,154.0,23.2455965,-106.4511701,2024-09-04 11:20:59.743440,easybroker,35000.0,227.27272727272728,25012,25,012,Mazatlán,renta
+amplio y hermoso departamento en renta en las gaviotas a 4 cuadras de la playa,,,,23.2489071274,-106.4505724861,2024-09-04 11:20:59.743440,easybroker,14000.0,,25012,25,012,Mazatlán,renta
+hermoso departamento en gaviotas golden en mazatlan sinaloa,,,,23.2484832481,-106.4517098711,2024-09-04 11:20:59.743440,easybroker,20000.0,,25012,25,012,Mazatlán,renta
+casa en renta anual coto privado en  almar zona cerritos a 5 minutos de playa,3.0,3.0,,23.2973247,-106.4754948,2024-09-04 11:20:59.743440,easybroker,25000.0,,25012,25,012,Mazatlán,renta
+casa lola tu hogar en el centro de mazatlan,2.0,2.0,,23.2014331,-106.4169506,2024-09-04 11:20:59.743440,easybroker,18000.0,,25012,25,012,Mazatlán,renta
+loft 603 y w tower cerritos mazatlan,,,50.0,23.3041083391,-106.490414131,2024-09-04 11:20:59.743440,easybroker,25000.0,500.0,25012,25,012,Mazatlán,renta
+ferrara mazatlan 1004 torre central muy cerca del mar,2.0,2.0,70.0,23.2658809048,-106.4607273213,2024-09-04 11:20:59.743440,easybroker,25000.0,357.1428571428572,25012,25,012,Mazatlán,renta
+ambar 411 muy cerca del mar en cerritos mazatlan,2.0,2.0,70.0,23.28701,-106.4702315,2024-09-04 11:20:59.743440,easybroker,22000.0,314.2857142857143,25012,25,012,Mazatlán,renta
+almarena coral 201 en mazatlan,2.0,2.0,65.0,23.2998121192,-106.4799217238,2024-09-04 11:20:59.743440,easybroker,22000.0,338.46153846153845,25012,25,012,Mazatlán,renta
+departamento en renta en punta marina,3.0,3.0,180.0,23.2719424443,-106.4550303084,2024-09-04 11:20:59.743440,easybroker,45000.0,250.0,25012,25,012,Mazatlán,renta
+departamento en renta en planta baja amueblado en gaviotas,2.0,,,23.2467778599,-106.4503957166,2024-09-04 11:20:59.743440,easybroker,17000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en planta alta amueblado en gaviotas,2.0,,,23.2467778599,-106.4503957166,2024-09-04 11:20:59.743440,easybroker,17000.0,,25012,25,012,Mazatlán,renta
+departamento en renta a 4 cuadras de la playa  en las gaviotas,2.0,2.0,,23.2489416291,-106.4504599547,2024-09-04 11:20:59.743440,easybroker,18000.0,,25012,25,012,Mazatlán,renta
+penthouse en renta en sabalo country a 3 minutos de la playa,3.0,2.0,,23.2645108601,-106.4611031064,2024-09-04 11:20:59.743440,easybroker,30000.0,,25012,25,012,Mazatlán,renta
+casa en renta en almar residencial a 5 minutos de la playa en cerritos,2.0,2.0,,23.2973214,-106.4777561,2024-09-04 11:20:59.743440,easybroker,18000.0,,25012,25,012,Mazatlán,renta
+casa amueblada real del valle,2.0,,96.0,23.2886969,-106.4295336,2024-09-04 11:20:59.743440,easybroker,13500.0,140.625,25012,25,012,Mazatlán,renta
+departamento en renta en marriot courtyard,2.0,2.0,,23.2429238,-106.4533857,2024-09-04 11:20:59.743440,easybroker,48000.0,,25012,25,012,Mazatlán,renta
+departamento en renta con amplia alberca y a 5 minutos de la playa en cerritos,3.0,2.0,,23.2911452,-106.4700084,2024-09-04 11:20:59.743440,easybroker,18000.0,,25012,25,012,Mazatlán,renta
+departamento en renta de lujo con laguna y alberca semi olimpica,2.0,2.0,,23.2889724157,-106.4421550763,2024-09-04 11:20:59.743440,easybroker,25000.0,,25012,25,012,Mazatlán,renta
+departamento de lujo en renta con vista panoramica y amplia terraza en el maleco,4.0,3.0,220.0,23.2177977148,-106.4215030652,2024-09-04 11:20:59.743440,easybroker,35000.0,159.0909090909091,25012,25,012,Mazatlán,renta
+departamento en almarena residencial en mazatlan sinaloa,2.0,2.0,85.0,23.3048952,-106.4855562,2024-09-04 11:20:59.743440,easybroker,20000.0,235.2941176470588,25012,25,012,Mazatlán,renta
+casa en almarena residencial mazatlan,3.0,2.0,129.0,23.2022625,-106.4287602,2024-09-04 11:20:59.743440,easybroker,20000.0,155.03875968992247,25012,25,012,Mazatlán,renta
+departamento en renta con vista al mar en el malecon colonia,2.0,2.0,,23.2315417625,-106.433825137,2024-09-04 11:20:59.743440,easybroker,49583.75,,25012,25,012,Mazatlán,renta
+dpto en la marina con alberca en renta,3.0,3.0,140.0,23.2712328149,-106.4525091648,2024-09-04 11:20:59.743440,easybroker,24000.0,171.42857142857142,25012,25,012,Mazatlán,renta
+departamento de lujo en renta con alberca elevador y en esquina en el toreo,2.0,3.0,,23.2461272436,-106.4392805136,2024-09-04 11:20:59.743440,easybroker,20000.0,,25012,25,012,Mazatlán,renta
+departamento de lujo en renta con alberca elevador en el toreo,2.0,3.0,,23.2461863907,-106.4393556087,2024-09-04 11:20:59.743440,easybroker,20000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en costa veleros,2.0,2.0,,23.2694461,-106.452461,2024-09-04 11:20:59.743440,easybroker,22000.0,,25012,25,012,Mazatlán,renta
+condominio en renta en paradise bay grand mazatlan,2.0,2.0,126.0,23.2288987,-106.4273366,2024-09-04 11:20:59.743440,easybroker,30000.0,238.0952380952381,25012,25,012,Mazatlán,renta
+condominio en renta con vista al mar,2.0,2.0,118.0,23.2740713098,-106.4618969275,2024-09-04 11:20:59.743440,easybroker,35000.0,296.6101694915254,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo country a 3 minutos de la playa,2.0,2.0,,23.2645897119,-106.4611029945,2024-09-04 11:20:59.743440,easybroker,17000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en costa veleros con hermosa vista a la marina,2.0,2.0,,23.2694461,-106.452461,2024-09-04 11:20:59.743440,easybroker,22000.0,,25012,25,012,Mazatlán,renta
+departamento en frente de la playa en cerritos mazatlan,2.0,3.0,,23.2774713,-106.4671163,2024-09-04 11:20:59.743440,easybroker,60000.0,,25012,25,012,Mazatlán,renta
+departamento amueblado en renta en mazatlan sinaloa,2.0,2.0,90.0,23.2216585,-106.4207116,2024-09-04 11:20:59.743440,easybroker,30000.0,333.3333333333333,25012,25,012,Mazatlán,renta
+casa en renta  amueblada en altabrisa,3.0,2.0,,23.3054792,-106.4780693,2024-09-04 11:20:59.743440,easybroker,30000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en costa veleros,2.0,2.0,,23.2693561,-106.4525651,2024-09-04 11:20:59.743440,easybroker,25000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en sabalo muy cerca del mar,,,,23.2636583,-106.4593916,2024-09-04 11:20:59.743440,easybroker,12500.0,,25012,25,012,Mazatlán,renta
+departamento en cerro del vigia en el centro de mazatlan.,2.0,2.0,,23.1899282,-106.42362,2024-09-04 11:20:59.743440,easybroker,20000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en playa escondida cerritos,,,,23.3048952,-106.4855562,2024-09-04 11:20:59.743440,easybroker,60000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en gavias grand luxury,2.0,2.0,,23.2775263,-106.4672059,2024-09-04 11:20:59.743440,easybroker,30000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en the one mazatlan,2.0,2.0,,23.2325328,-106.434951,2024-09-04 11:20:59.743440,easybroker,25000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en puesta de sol,3.0,2.0,,23.2749581,-106.4476581,2024-09-04 11:20:59.743440,easybroker,65000.0,,25012,25,012,Mazatlán,renta
+departamento en renta gavias grand mazatlan,3.0,3.0,,23.276905,-106.4674987,2024-09-04 11:20:59.743440,easybroker,40000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en gavias grand luxury cerritos,2.0,,,23.2494148,-106.4111425,2024-09-04 11:20:59.743440,easybroker,35000.0,,25012,25,012,Mazatlán,renta
+departamento en renta en torre eme,2.0,2.0,102.0,23.2183102,-106.4220725,2024-09-04 11:20:59.743440,easybroker,35000.0,343.1372549019608,25012,25,012,Mazatlán,renta
+renta casa en excelente zona cerritos,3.0,2.0,152.0,23.290961,-106.4768466,2024-09-04 11:20:59.743440,easybroker,4500.0,29.605263157894736,25012,25,012,Mazatlán,renta
+departamento en renta sobre malecon de mazatlan vista al mar.,2.0,2.0,,23.2280749,-106.4295873,2024-09-04 11:20:59.743440,easybroker,40000.0,,25012,25,012,Mazatlán,renta
